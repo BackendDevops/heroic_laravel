@@ -10,12 +10,8 @@
 * [Documentation](#documentation)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Upgrade to PRO](#upgrade-to-pro)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+
+
 
 
 
@@ -198,7 +194,7 @@ If you input the wrong data when editing the profile, don't worry. Validation ru
 
 
 ## Documentation
-The documentation for Volt is hosted on our [website](https://volt-laravel-admin-dashboard.updivision.com/documentation/getting-started/overview/index.html).
+
 
 ## File Structure
 Within the download you'll find the following directories and files:
@@ -260,58 +256,3 @@ At present, we officially aim to support the last two versions of the following 
 
 Please see the [changelog](CHANGELOG.md) for more information on what has changed recently.
 
-
-## Upgrade to Pro
-
-Take front-end development to the next level by upgrading to the PRO version of Volt Laravel Admin Dashboard featuring over 3 times more components, plugin and pages and 5 times more Laravel features. You also get 6 months of premium support and free updates. Check out [Volt Pro Premium Laravel Admin Dashboard](https://themesberg.com/product/laravel/volt-pro-admin-dashboard-template).
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for Volt Laravel Admin Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of Volt Laravel Admin Dashboard. Check the CHANGELOG from your dashboard on our [website](https://themesberg.com/docs/volt-laravel-admin-dashboard/getting-started/changelog/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://themesberg.com/contact) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2021 Themesberg (Crafty Dwarf LLC) (https://themesberg.com)
-- Themesberg [license](https://themesberg.com/licensing#mit) (MIT License)
-
-## Useful Links
-
-- [More themes](https://themesberg.com/themes) from Themesberg
-- [Free themes](https://themesberg.com/templates/free) from Themesberg
-- [Bootstrap Themes, Templates & UI Kits](https://themesberg.com/templates/laravel/) from Themesberg
-- [Affiliate Program](https://themesberg.com/affiliate)
-
-## Social Media
-
-### Themesberg
-
-Twitter: <https://twitter.com/themesberg>
-
-Facebook: <https://www.facebook.com/themesberg/>
-
-Dribbble: <https://dribbble.com/themesberg>
-
-Instagram: <https://www.instagram.com/themesberg/>
-
-### Updivision:
-
-Twitter: <https://twitter.com/updivision?ref=pdl-readme>
-
-Facebook: <https://www.facebook.com/updivision?ref=pdl-readme>
-
-Linkedin: <https://www.linkedin.com/company/updivision?ref=pdl-readme>
-
-Updivision Blog: <https://updivision.com/blog/?ref=pdl-readme>
-
-## Credits
-
-- [Themesberg](https://themesberg.com/)
-- [UPDIVISION](https://updivision.com)
