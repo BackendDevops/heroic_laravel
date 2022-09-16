@@ -239,18 +239,6 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-## Resources
-- Demo: <https://volt-laravel-admin-dashboard.updivision.com/dashboard>
-- Download Page: <https://themesberg.com/product/laravel/volt-admin-dashboard-template>
-- Documentation: <https://volt-laravel-admin-dashboard.updivision.com/documentation/getting-started/overview/index.html>
-- License Agreement: <https://themesberg.com/licensing>
-- Support: <https://themesberg.com/contact>
-- Issues: [Github Issues Page](https://github.com/themesberg/volt-laravel-admin-dashboard/issues)
-- **Dashboards:**
-
-| HTML | React  | Laravel  |
-| --- | ---  | --- |
-| [![Volt Bootstrap 5 Dashboard HTML](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-bootstrap-5-dashboard/volt-bootstrap-5-dashboard-preview.jpg)](https://volt-laravel-admin-dashboard.updivision.com/dashboard) | [![Volt React Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-react-dashboard/thumbnail.png)](https://github.com/themesberg/volt-react-dashboard) | [![Volt React Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/volt-free-laravel-dashboard.jpg)](https://github.com/themesberg/volt-laravel-admin-dashboard)
 
 ## Change log
 
